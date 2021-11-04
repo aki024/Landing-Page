@@ -184,6 +184,7 @@ border: rgb(27, 40, 158) solid 1px;
     border-radius: 25px;
     
     
+    
 
 
 
@@ -195,6 +196,7 @@ border: rgb(27, 40, 158) solid 1px;
     flex:1;
     justify-content: center;
     gap:40px;
+    flex-wrap: wrap;
     
 
 }
